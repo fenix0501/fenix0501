@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I'm Fenix 👋
+# Hi, I'm Fenix
 
 ### ML/RL **engineer** · data analyst · student
 
