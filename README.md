@@ -8,6 +8,8 @@
 
 I love RL. I hate RL. Please hire me.
 
+[![Open to work](https://img.shields.io/badge/Open_to_work-ML%2FRL_Engineering_%C2%B7_Data_Analytics-2ea44f?style=for-the-badge)](https://t.me/phoenix_sk2)
+
 ML competitions organizer (VSOS AI) · Telegram: [**@phoenix_sk2**](https://t.me/phoenix_sk2)
 
 [![GitHub](https://img.shields.io/badge/GitHub-fenix0501-181717?style=for-the-badge&logo=github)](https://github.com/fenix0501)
