@@ -23,13 +23,14 @@ ML competitions organizer (VSOS AI) · Telegram: [**@phoenix_sk2**](https://t.me
 
 [![Kaggle profile](https://img.shields.io/badge/Profile-phoenix0501-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/phoenix0501)
 ![Silver medals](https://img.shields.io/badge/Silver-1-C0C0C0?logo=kaggle&logoColor=white)
-![Bronze medals](https://img.shields.io/badge/Bronze-1-CD7F32?logo=kaggle&logoColor=white)
+![Bronze medals](https://img.shields.io/badge/Bronze-2-CD7F32?logo=kaggle&logoColor=white)
 
 **Competitions Expert**
 
 | Competition | Result | Medal |
 | :--- | ---: | :---: |
 | [Orbit Wars](https://www.kaggle.com/competitions/orbit-wars) | **33rd / 4,729 teams** | 🥈 Silver |
+| [The Pokémon Company - PTCG AI Battle Challenge Simulation](https://www.kaggle.com/competitions/pokemon-tcg-ai-battle) | **380th / 6,807 teams** | 🥉 Bronze |
 | [The 2026 NeuroGolf Championship](https://www.kaggle.com/competitions/neurogolf-2026) | **165th / 2,963 teams** | 🥉 Bronze |
 
 ### Projects
